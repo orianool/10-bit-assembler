@@ -19,5 +19,6 @@ The program outputs 3 file in base 32 \(the base is also a bit wierd. basically 
 ./assembler file1 file2... \(do not add file extension\)
 
 # The 32 base
-!,@,#,$,%,^,&,*,<,>,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v
-1 = !, 2 = @ and so so forth.
+!,@,#,$,%,^,&,*,<,>,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v.
+
+1 = !, 2 = @, and so so forth.
